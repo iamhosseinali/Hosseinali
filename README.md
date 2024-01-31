@@ -1,4 +1,4 @@
-### Hey there, Im Hosseinali an enthusiastic FPGA developer and a big chocolate consumer.
+### Hey there, Im Hosseinali an enthusiastic FPGA developer and a big chocolate consumer :)
 
 ![](https://komarev.com/ghpvc/?username=Hosseinali&color=green)
 
